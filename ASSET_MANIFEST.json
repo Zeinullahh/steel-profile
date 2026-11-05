@@ -1,0 +1,233 @@
+{
+  "original_pdf": "каталог в кривых ( 16 версия).pdf",
+  "items": [
+    {
+      "file": "public/images/hero-facade-house.webp",
+      "source_page_pdf": 3,
+      "image_xref": 27,
+      "description": "Главный экран, фасад, современный дом",
+      "original_file": "source-images/hero-facade-house.png",
+      "original_size": "1272x849",
+      "web_size": "1272x849",
+      "note": "Встроенное оригинальное изображение PDF; web-версия оптимизирована"
+    },
+    {
+      "file": "public/images/facade-texture-panel.webp",
+      "source_page_pdf": 3,
+      "image_xref": 34,
+      "description": "Текстура фиброцементной панели",
+      "original_file": "source-images/facade-texture-panel.png",
+      "original_size": "1393x916",
+      "web_size": "1393x916",
+      "note": "Встроенное оригинальное изображение PDF; web-версия оптимизирована"
+    },
+    {
+      "file": "public/images/linear-house.webp",
+      "source_page_pdf": 4,
+      "image_xref": 45,
+      "description": "Линейные панели на фасаде здания",
+      "original_file": "source-images/linear-house.png",
+      "original_size": "567x369",
+      "web_size": "567x369",
+      "note": "Встроенное оригинальное изображение PDF; web-версия оптимизирована"
+    },
+    {
+      "file": "public/images/linear-panel.webp",
+      "source_page_pdf": 4,
+      "image_xref": 44,
+      "description": "Линейная панель, предметное фото",
+      "original_file": "source-images/linear-panel.png",
+      "original_size": "513x370",
+      "web_size": "513x370",
+      "note": "Встроенное оригинальное изображение PDF; web-версия оптимизирована"
+    },
+    {
+      "file": "public/images/aluminium-cassettes-building.webp",
+      "source_page_pdf": 5,
+      "image_xref": 50,
+      "description": "Фасад из алюминиевых кассет",
+      "original_file": "source-images/aluminium-cassettes-building.png",
+      "original_size": "563x399",
+      "web_size": "563x399",
+      "note": "Встроенное оригинальное изображение PDF; web-версия оптимизирована"
+    },
+    {
+      "file": "public/images/aluminium-cassette-product.webp",
+      "source_page_pdf": 5,
+      "image_xref": 51,
+      "description": "Кассета, предметное изображение",
+      "original_file": "source-images/aluminium-cassette-product.png",
+      "original_size": "477x393",
+      "web_size": "477x393",
+      "note": "Встроенное оригинальное изображение PDF; web-версия оптимизирована"
+    },
+    {
+      "file": "public/images/roof-tiles-house.webp",
+      "source_page_pdf": 7,
+      "image_xref": 93,
+      "description": "Кровля дома, пример металлочерепицы",
+      "original_file": "source-images/roof-tiles-house.png",
+      "original_size": "618x375",
+      "web_size": "618x280",
+      "note": "Кадрирование подписи из PDF без генерации деталей"
+    },
+    {
+      "file": "public/images/roof-venecia-profile.webp",
+      "source_page_pdf": 7,
+      "image_xref": 91,
+      "description": "Профиль металлочерепицы Венеция Плюс",
+      "original_file": "source-images/roof-venecia-profile.png",
+      "original_size": "775x615",
+      "web_size": "775x615",
+      "note": "Встроенное оригинальное изображение PDF; web-версия оптимизирована"
+    },
+    {
+      "file": "public/images/roof-tramontana-profile.webp",
+      "source_page_pdf": 7,
+      "image_xref": 96,
+      "description": "Профиль металлочерепицы Трамонтана",
+      "original_file": "source-images/roof-tramontana-profile.png",
+      "original_size": "773x587",
+      "web_size": "773x587",
+      "note": "Встроенное оригинальное изображение PDF; web-версия оптимизирована"
+    },
+    {
+      "file": "public/images/fence-euro-picket.webp",
+      "source_page_pdf": 11,
+      "image_xref": 159,
+      "description": "Евроштакетник, монтаж с двух сторон",
+      "original_file": "source-images/fence-euro-picket.png",
+      "original_size": "456x278",
+      "web_size": "456x278",
+      "note": "Встроенное оригинальное изображение PDF; web-версия оптимизирована"
+    },
+    {
+      "file": "public/images/fence-louvers-eco.webp",
+      "source_page_pdf": 11,
+      "image_xref": 160,
+      "description": "Жалюзи ЭКО, пример конструкции",
+      "original_file": "source-images/fence-louvers-eco.png",
+      "original_size": "456x276",
+      "web_size": "456x276",
+      "note": "Встроенное оригинальное изображение PDF; web-версия оптимизирована"
+    },
+    {
+      "file": "public/images/fence-louvers-twin.webp",
+      "source_page_pdf": 11,
+      "image_xref": 161,
+      "description": "Жалюзи ТВИН, пример конструкции",
+      "original_file": "source-images/fence-louvers-twin.png",
+      "original_size": "500x276",
+      "web_size": "500x276",
+      "note": "Встроенное оригинальное изображение PDF; web-версия оптимизирована"
+    },
+    {
+      "file": "public/images/fence-rancho.webp",
+      "source_page_pdf": 11,
+      "image_xref": 157,
+      "description": "Забор Ранчо",
+      "original_file": "source-images/fence-rancho.png",
+      "original_size": "724x320",
+      "web_size": "724x320",
+      "note": "Встроенное оригинальное изображение PDF; web-версия оптимизирована"
+    },
+    {
+      "file": "public/images/fence-eco-house.webp",
+      "source_page_pdf": 12,
+      "image_xref": 166,
+      "description": "Забор жалюзи ЭКО на участке",
+      "original_file": "source-images/fence-eco-house.png",
+      "original_size": "554x424",
+      "web_size": "554x424",
+      "note": "Встроенное оригинальное изображение PDF; web-версия оптимизирована"
+    },
+    {
+      "file": "public/images/fence-eco-profile.webp",
+      "source_page_pdf": 12,
+      "image_xref": 173,
+      "description": "Секция профиля жалюзи ЭКО",
+      "original_file": "source-images/fence-eco-profile.png",
+      "original_size": "1257x731",
+      "web_size": "1257x731",
+      "note": "Встроенное оригинальное изображение PDF; web-версия оптимизирована"
+    },
+    {
+      "file": "public/images/fence-planken-house.webp",
+      "source_page_pdf": 13,
+      "image_xref": 179,
+      "description": "Забор Планкен у дома",
+      "original_file": "source-images/fence-planken-house.png",
+      "original_size": "555x387",
+      "web_size": "555x387",
+      "note": "Встроенное оригинальное изображение PDF; web-версия оптимизирована"
+    },
+    {
+      "file": "public/images/fence-twin-house.webp",
+      "source_page_pdf": 14,
+      "image_xref": 198,
+      "description": "Забор жалюзи ТВИН у дома",
+      "original_file": "source-images/fence-twin-house.png",
+      "original_size": "537x487",
+      "web_size": "537x487",
+      "note": "Встроенное оригинальное изображение PDF; web-версия оптимизирована"
+    },
+    {
+      "file": "public/images/garage-door-house.webp",
+      "source_page_pdf": 17,
+      "image_xref": 249,
+      "description": "Гаражные секционные ворота",
+      "original_file": "source-images/garage-door-house.png",
+      "original_size": "551x420",
+      "web_size": "551x420",
+      "note": "Встроенное оригинальное изображение PDF; web-версия оптимизирована"
+    },
+    {
+      "file": "public/images/industrial-sectional-doors.webp",
+      "source_page_pdf": 18,
+      "image_xref": 262,
+      "description": "Промышленные секционные ворота",
+      "original_file": "source-images/industrial-sectional-doors.png",
+      "original_size": "559x403",
+      "web_size": "559x403",
+      "note": "Встроенное оригинальное изображение PDF; web-версия оптимизирована"
+    },
+    {
+      "file": "public/images/fencing-system-house.webp",
+      "source_page_pdf": 19,
+      "image_xref": 275,
+      "description": "Система ограждений",
+      "original_file": "source-images/fencing-system-house.png",
+      "original_size": "595x388",
+      "web_size": "595x388",
+      "note": "Встроенное оригинальное изображение PDF; web-версия оптимизирована"
+    },
+    {
+      "file": "public/images/ac-basket.webp",
+      "source_page_pdf": 20,
+      "image_xref": 288,
+      "description": "Корзина под кондиционер",
+      "original_file": "source-images/ac-basket.png",
+      "original_size": "537x508",
+      "web_size": "537x508",
+      "note": "Встроенное оригинальное изображение PDF; web-версия оптимизирована"
+    },
+    {
+      "file": "public/images/mailbox-multi-section.webp",
+      "source_page_pdf": 21,
+      "image_xref": 303,
+      "description": "Многосекционный почтовый ящик",
+      "original_file": "source-images/mailbox-multi-section.png",
+      "original_size": "549x497",
+      "web_size": "549x497",
+      "note": "Встроенное оригинальное изображение PDF; web-версия оптимизирована"
+    },
+    {
+      "file": "public/images/steel-profiles-logo-from-catalog.png",
+      "source_page_pdf": 23,
+      "image_xref": null,
+      "description": "Логотип из страницы контактов PDF, вырезан из векторной страницы",
+      "note": "Исходник не SVG, прозрачность извлечена из белого фона; проверить визуально"
+    }
+  ],
+  "ui_concepts": "Только визуальные концепты, сгенерированные ИИ. Не использовать изображённые тексты или данные как факты; приоритет содержания за оригинальным PDF и ТЗ."
+}

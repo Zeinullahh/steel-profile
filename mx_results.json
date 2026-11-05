@@ -1,0 +1,625 @@
+[
+  {
+    "company": "Kazatomprom",
+    "domain": "kazatomprom.kz",
+    "mx": [
+      {
+        "mx_host": "meg.kazatomprom.kz",
+        "ip": "92.46.187.185",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "Baylanysnakkz"
+      }
+    ]
+  },
+  {
+    "company": "KazMunayGas",
+    "domain": "kmg.kz",
+    "mx": [
+      {
+        "mx_host": "mx3.kmg.kz",
+        "ip": "92.46.112.55",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "<AO NK KazMunayGaz>"
+      },
+      {
+        "mx_host": "mx4.kmg.kz",
+        "ip": "92.46.112.67",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "<AO NK KazMunayGaz>"
+      }
+    ]
+  },
+  {
+    "company": "Kazakhtelecom",
+    "domain": "telecom.kz",
+    "mx": [
+      {
+        "mx_host": "mail.telecom.kz",
+        "ip": "93.95.241.76",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "DIS"
+      }
+    ]
+  },
+  {
+    "company": "Kcell",
+    "domain": "kcell.kz",
+    "mx": [
+      {
+        "mx_host": "mailgw8.kcell.kz",
+        "ip": "193.8.13.29",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "ACTIV"
+      },
+      {
+        "mx_host": "kcell-kz.mail.protection.outlook.com",
+        "ip": "52.101.181.153",
+        "country": "Poland",
+        "countryCode": "PL",
+        "org": "Microsoft Azure Cloud (polandcentral)"
+      },
+      {
+        "mx_host": "kcell-kz.mail.protection.outlook.com",
+        "ip": "52.101.68.8",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "org": "Microsoft Azure Cloud (northeurope)"
+      },
+      {
+        "mx_host": "kcell-kz.mail.protection.outlook.com",
+        "ip": "52.101.103.143",
+        "country": "Italy",
+        "countryCode": "IT",
+        "org": "Microsoft Azure Cloud (italynorth)"
+      },
+      {
+        "mx_host": "kcell-kz.mail.protection.outlook.com",
+        "ip": "52.101.68.25",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "org": "Microsoft Azure Cloud (northeurope)"
+      }
+    ]
+  },
+  {
+    "company": "Beeline Kazakhstan",
+    "domain": "beeline.kz",
+    "mx": [
+      {
+        "mx_host": "mailrelay1.beeline.kz",
+        "ip": "77.74.64.4",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "Kar-Tel LLP"
+      },
+      {
+        "mx_host": "mailrelay2.beeline.kz",
+        "ip": "77.74.64.5",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "Kar-Tel LLP"
+      }
+    ]
+  },
+  {
+    "company": "Halyk Bank",
+    "domain": "halykbank.kz",
+    "mx": [
+      {
+        "mx_host": "ewg1.halykbank.kz",
+        "ip": "212.19.135.244",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "HSBK-1part"
+      },
+      {
+        "mx_host": "ewg2.halykbank.kz",
+        "ip": "212.19.135.245",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "HSBK-1part"
+      }
+    ]
+  },
+  {
+    "company": "Kaspi Bank",
+    "domain": "kaspi.kz",
+    "mx": [
+      {
+        "mx_host": "bmss-01d.kaspi.kz",
+        "ip": "194.187.247.179",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "JSC Kaspi Bank"
+      },
+      {
+        "mx_host": "bmss-02d.kaspi.kz",
+        "ip": "194.187.247.180",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "JSC Kaspi Bank"
+      }
+    ]
+  },
+  {
+    "company": "ForteBank",
+    "domain": "fortebank.kz",
+    "mx": [
+      {
+        "mx_host": "ml01.fortebank.kz",
+        "ip": "195.162.14.58",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "ForteBank JSC"
+      },
+      {
+        "mx_host": "ml01.fortebank.kz",
+        "ip": "195.162.14.21",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "ForteBank JSC"
+      }
+    ]
+  },
+  {
+    "company": "Eurasian Bank",
+    "domain": "eurasianbank.kz",
+    "mx": [
+      {
+        "mx_host": "mail.eurasianbank.kz",
+        "ip": "89.35.125.9",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "Hosterkz Network"
+      }
+    ]
+  },
+  {
+    "company": "Jusan Bank",
+    "domain": "jysanbank.kz",
+    "mx": [
+      {
+        "mx_host": "jysanbank-kz.mail.protection.outlook.com",
+        "ip": "52.101.103.137",
+        "country": "Italy",
+        "countryCode": "IT",
+        "org": "Microsoft Azure Cloud (italynorth)"
+      },
+      {
+        "mx_host": "jysanbank-kz.mail.protection.outlook.com",
+        "ip": "52.101.73.155",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "org": "Microsoft Azure Cloud (westeurope)"
+      },
+      {
+        "mx_host": "jysanbank-kz.mail.protection.outlook.com",
+        "ip": "52.101.73.123",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "org": "Microsoft Azure Cloud (westeurope)"
+      },
+      {
+        "mx_host": "jysanbank-kz.mail.protection.outlook.com",
+        "ip": "52.101.68.25",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "org": "Microsoft Azure Cloud (northeurope)"
+      }
+    ]
+  },
+  {
+    "company": "Bank CenterCredit",
+    "domain": "bcc.kz",
+    "mx": [
+      {
+        "mx_host": "mx3.bcc.kz",
+        "ip": "91.198.63.73",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "BankCenterCredit KZ"
+      },
+      {
+        "mx_host": "mx4.bcc.kz",
+        "ip": "91.198.63.202",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "BankCenterCredit KZ"
+      }
+    ]
+  },
+  {
+    "company": "Air Astana",
+    "domain": "airastana.com",
+    "mx": [
+      {
+        "mx_host": "mail.airastana.com",
+        "ip": "83.136.220.254",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "AA DMZ"
+      },
+      {
+        "mx_host": "mailx.airastana.com",
+        "ip": "83.136.220.136",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "AA DMZ"
+      },
+      {
+        "mx_host": "mail2.airastana.com",
+        "ip": "88.204.236.44",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "Airastana"
+      }
+    ]
+  },
+  {
+    "company": "Kazakhstan Railways (KTZ)",
+    "domain": "railways.kz",
+    "mx": [
+      {
+        "mx_host": "ftmail2.railways.kz",
+        "ip": "91.185.22.108",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "Transtelecom Kazakhstan"
+      }
+    ]
+  },
+  {
+    "company": "Kazpost",
+    "domain": "kazpost.kz",
+    "mx": [
+      {
+        "mx_host": "smtp.kazpost.kz",
+        "ip": "92.46.190.155",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "IP Qazcloud"
+      }
+    ]
+  },
+  {
+    "company": "Kaz Minerals",
+    "domain": "kazminerals.com",
+    "mx": [
+      {
+        "mx_host": "kazminerals-com.mail.protection.outlook.com",
+        "ip": "52.101.103.140",
+        "country": "Italy",
+        "countryCode": "IT",
+        "org": "Microsoft Azure Cloud (italynorth)"
+      },
+      {
+        "mx_host": "kazminerals-com.mail.protection.outlook.com",
+        "ip": "52.101.209.31",
+        "country": "Denmark",
+        "countryCode": "DK",
+        "org": "Microsoft Corporation"
+      },
+      {
+        "mx_host": "kazminerals-com.mail.protection.outlook.com",
+        "ip": "52.101.73.123",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "org": "Microsoft Azure Cloud (westeurope)"
+      },
+      {
+        "mx_host": "kazminerals-com.mail.protection.outlook.com",
+        "ip": "52.101.73.153",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "org": "Microsoft Azure Cloud (westeurope)"
+      }
+    ]
+  },
+  {
+    "company": "ERG (Eurasian Resources)",
+    "domain": "erg.kz",
+    "mx": [
+      {
+        "mx_host": "mail.erg.kz",
+        "ip": "37.230.251.110",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "LeaderTelecom Ltd"
+      },
+      {
+        "mx_host": "mail1.erg.kz",
+        "ip": "37.230.251.105",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "LeaderTelecom Ltd"
+      }
+    ]
+  },
+  {
+    "company": "Kazzinc",
+    "domain": "kazzinc.com",
+    "mx": [
+      {
+        "mx_host": "mxa-00932001.gslb.pphosted.com",
+        "ip": "66.159.233.173",
+        "country": "Germany",
+        "countryCode": "DE",
+        "org": "Proofpoint, Inc."
+      },
+      {
+        "mx_host": "mxb-00932001.gslb.pphosted.com",
+        "ip": "143.55.150.36",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "org": "Proofpoint, Inc"
+      }
+    ]
+  },
+  {
+    "company": "Tengizchevroil",
+    "domain": "tengizchevroil.com",
+    "mx": [
+      {
+        "mx_host": "mx1.hc2860-13.iphmx.com",
+        "ip": "216.71.143.108",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Cisco Systems Ironport Division"
+      },
+      {
+        "mx_host": "mx1.hc2860-13.iphmx.com",
+        "ip": "216.71.140.128",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Cisco Systems Ironport Division"
+      },
+      {
+        "mx_host": "mx2.hc2860-13.iphmx.com",
+        "ip": "216.71.143.108",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Cisco Systems Ironport Division"
+      },
+      {
+        "mx_host": "mx2.hc2860-13.iphmx.com",
+        "ip": "216.71.140.128",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Cisco Systems Ironport Division"
+      }
+    ]
+  },
+  {
+    "company": "Samruk-Kazyna",
+    "domain": "sk.kz",
+    "mx": [
+      {
+        "mx_host": "mail.sk.kz",
+        "ip": "92.46.124.89",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "Joint-stock company holding SAMRUK"
+      }
+    ]
+  },
+  {
+    "company": "Qazaq Air",
+    "domain": "flyqazaq.com",
+    "mx": [
+      {
+        "mx_host": "flyqazaq-com.mail.protection.outlook.com",
+        "ip": "52.101.103.36",
+        "country": "Italy",
+        "countryCode": "IT",
+        "org": "Microsoft Azure Cloud (italynorth)"
+      },
+      {
+        "mx_host": "flyqazaq-com.mail.protection.outlook.com",
+        "ip": "52.101.103.143",
+        "country": "Italy",
+        "countryCode": "IT",
+        "org": "Microsoft Azure Cloud (italynorth)"
+      },
+      {
+        "mx_host": "flyqazaq-com.mail.protection.outlook.com",
+        "ip": "52.101.91.156",
+        "country": "Spain",
+        "countryCode": "ES",
+        "org": "Microsoft Azure Cloud (spaincentral)"
+      },
+      {
+        "mx_host": "flyqazaq-com.mail.protection.outlook.com",
+        "ip": "52.101.91.21",
+        "country": "Spain",
+        "countryCode": "ES",
+        "org": "Microsoft Azure Cloud (spaincentral)"
+      }
+    ]
+  },
+  {
+    "company": "Magnum Cash & Carry",
+    "domain": "magnum.kz",
+    "mx": [
+      {
+        "mx_host": "mx1.magnum.kz",
+        "ip": "188.0.147.92",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "JSC KazTransCom"
+      },
+      {
+        "mx_host": "mx1.magnum.kz",
+        "ip": "92.46.49.68",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "Magnum KZ"
+      }
+    ]
+  },
+  {
+    "company": "BI Group",
+    "domain": "bi.group",
+    "mx": [
+      {
+        "mx_host": "mail02.bi-group.org",
+        "ip": "87.247.28.5",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "Local Astana SA-Telcom"
+      },
+      {
+        "mx_host": "mail01.bi-group.org",
+        "ip": "195.189.69.203",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "CTC ASTANA LTD"
+      }
+    ]
+  },
+  {
+    "company": "Eurasian Foods",
+    "domain": "efko.kz",
+    "mx": [
+      {
+        "mx_host": "mx.efko.ru",
+        "ip": "195.133.246.199",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Mastertel ISP"
+      },
+      {
+        "mx_host": "mx3.efko.ru",
+        "ip": "195.133.246.199",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Mastertel ISP"
+      }
+    ]
+  },
+  {
+    "company": "Rixos / Semurg Invest",
+    "domain": "semurginvest.kz",
+    "mx": [
+      {
+        "mx_host": "ASPMX3.GOOGLEMAIL.COM",
+        "ip": "172.253.152.26",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      },
+      {
+        "mx_host": "ASPMX4.GOOGLEMAIL.COM",
+        "ip": "192.178.228.26",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      },
+      {
+        "mx_host": "ASPMX5.GOOGLEMAIL.COM",
+        "ip": "192.178.158.27",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      },
+      {
+        "mx_host": "ALT1.ASPMX.L.GOOGLE.COM",
+        "ip": "142.250.147.26",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      },
+      {
+        "mx_host": "ASPMX.L.GOOGLE.COM",
+        "ip": "142.251.127.26",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      },
+      {
+        "mx_host": "ASPMX2.GOOGLEMAIL.COM",
+        "ip": "142.250.147.27",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      },
+      {
+        "mx_host": "ALT2.ASPMX.L.GOOGLE.COM",
+        "ip": "172.253.152.26",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      }
+    ]
+  },
+  {
+    "company": "Kazakhmys",
+    "domain": "kazakhmys.kz",
+    "mx": [
+      {
+        "mx_host": "fortimail.kazakhmys.kz",
+        "ip": "212.154.228.169",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "Kazakhmys"
+      }
+    ]
+  },
+  {
+    "company": "CNPC-Aktobemunaigas",
+    "domain": "amgk.kz",
+    "mx": [
+      {
+        "mx_host": "mail.amgk.kz",
+        "ip": "82.200.198.10",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "Evgeniy Kozhemyak"
+      }
+    ]
+  },
+  {
+    "company": "KazTransOil",
+    "domain": "kaztransoil.kz",
+    "mx": [
+      {
+        "mx_host": "mx1.kaztransoil.kz",
+        "ip": "91.185.0.26",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "JSC Transtelecom"
+      },
+      {
+        "mx_host": "mx3.kaztransoil.kz",
+        "ip": "91.185.0.85",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "JSC Transtelecom"
+      }
+    ]
+  },
+  {
+    "company": "KEGOC",
+    "domain": "kegoc.kz",
+    "mx": [
+      {
+        "mx_host": "email.kegoc.kz",
+        "ip": "185.20.126.147",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "Jusan Mobile JSC"
+      },
+      {
+        "mx_host": "mimesmtp2.kegoc.kz",
+        "ip": "185.20.126.132",
+        "country": "Kazakhstan",
+        "countryCode": "KZ",
+        "org": "Jusan Mobile JSC"
+      }
+    ]
+  }
+]

@@ -1,0 +1,546 @@
+{
+  "brand": "STEEL PROFILES",
+  "language": "ru",
+  "catalogYears": "2026–2027",
+  "coverHeadline": "Комплексные решения для частных домов и коммерческих объектов",
+  "advantages": [
+    "Надёжность",
+    "Эстетика",
+    "Простой монтаж",
+    "Гармония"
+  ],
+  "groups": [
+    {
+      "id": "facade",
+      "title": "Фасады",
+      "description": "Фасадные системы и облицовка",
+      "image": "/images/hero-facade-house.webp"
+    },
+    {
+      "id": "roof",
+      "title": "Кровля и водосток",
+      "description": "Материалы и комплектующие для кровли",
+      "image": "/images/roof-tiles-house.webp"
+    },
+    {
+      "id": "fence",
+      "title": "Заборы и ограждения",
+      "description": "Решения для ограждения участка",
+      "image": "/images/fence-eco-house.webp"
+    },
+    {
+      "id": "gates",
+      "title": "Ворота",
+      "description": "Частные, коммерческие и промышленные объекты",
+      "image": "/images/garage-door-house.webp"
+    },
+    {
+      "id": "elements",
+      "title": "Изделия и аксессуары",
+      "description": "Функциональные металлические элементы",
+      "image": "/images/ac-basket.webp"
+    }
+  ],
+  "products": [
+    {
+      "slug": "fibercement-facade-panels",
+      "title": "Фасадные панели",
+      "group": "facade",
+      "pdfPage": 3,
+      "description": "Фиброцементные панели для облицовки фасадов и внутренней отделки. В каталоге указано сочетание прочности, влагостойкости, пожаробезопасности и выразительной фактуры.",
+      "image": "/images/hero-facade-house.webp",
+      "variants": [
+        "Графит",
+        "Красный",
+        "Бежевый",
+        "Светлое дерево",
+        "Тёмное дерево",
+        "Серое дерево",
+        "Зелёное дерево",
+        "Жёлтое дерево",
+        "Коричневый",
+        "Кирпич светлый",
+        "Кирпич тёмный"
+      ],
+      "highlights": [
+        "По каталогу: заявленный срок службы более 50 лет",
+        "Имитация различных фактур"
+      ],
+      "filterTags": [
+        "фасад",
+        "дом"
+      ],
+      "price": null,
+      "sku": null,
+      "availability": null
+    },
+    {
+      "slug": "linear-panels",
+      "title": "Линейные панели",
+      "group": "facade",
+      "pdfPage": 4,
+      "description": "Стальные панели с полимерным покрытием для облицовки фасадов, стен и потолков.",
+      "image": "/images/linear-house.webp",
+      "variants": [
+        "С полосой",
+        "Перфорация",
+        "Под дерево",
+        "Графит",
+        "Белый",
+        "Серый",
+        "Под дерево светлый",
+        "Под дерево тёмный",
+        "Терракота"
+      ],
+      "highlights": [
+        "Визуально ровная поверхность",
+        "Скрытое крепление в соответствии с системой монтажа"
+      ],
+      "filterTags": [
+        "фасад",
+        "дом",
+        "коммерческий"
+      ],
+      "price": null,
+      "sku": null,
+      "availability": null
+    },
+    {
+      "slug": "aluminium-cassettes",
+      "title": "Алюминиевые кассеты",
+      "group": "facade",
+      "pdfPage": 5,
+      "description": "Алюминиевые и композитные кассеты для облицовки современных зданий.",
+      "image": "/images/aluminium-cassettes-building.webp",
+      "variants": [
+        "Гладкая",
+        "Кассетная",
+        "Композитная",
+        "Серебро",
+        "Графит",
+        "Белый",
+        "Антрацит",
+        "Шампань",
+        "Чёрный"
+      ],
+      "highlights": [
+        "Современная геометрия фасада",
+        "Применение на жилых и коммерческих зданиях"
+      ],
+      "filterTags": [
+        "фасад",
+        "коммерческий"
+      ],
+      "price": null,
+      "sku": null,
+      "availability": null
+    },
+    {
+      "slug": "facade-subsystem",
+      "title": "Подсистема для фасадов",
+      "group": "facade",
+      "pdfPage": 6,
+      "description": "Кронштейны, профили, кляммеры и крепёжные элементы для монтажа облицовки.",
+      "image": "/images/hero-facade-house.webp",
+      "variants": [
+        "Кронштейны",
+        "Профили",
+        "Комплектующие"
+      ],
+      "highlights": [
+        "Компоненты подсистемы из каталога"
+      ],
+      "filterTags": [
+        "фасад",
+        "комплектующие"
+      ],
+      "price": null,
+      "sku": null,
+      "availability": null
+    },
+    {
+      "slug": "metal-roof-tile",
+      "title": "Металлочерепица",
+      "group": "roof",
+      "pdfPage": 7,
+      "description": "Металлическая кровля для частного и коммерческого строительства.",
+      "image": "/images/roof-tiles-house.webp",
+      "variants": [
+        "Венеция Плюс",
+        "Трамонтана",
+        "Супер Монтеррей",
+        "Энигма"
+      ],
+      "highlights": [
+        "Сталь с защитным покрытием",
+        "Различные формы профиля и цвета RAL"
+      ],
+      "filterTags": [
+        "кровля",
+        "дом"
+      ],
+      "price": null,
+      "sku": null,
+      "availability": null
+    },
+    {
+      "slug": "roofing-accessories-como",
+      "title": "Кровельные доборные элементы",
+      "group": "roof",
+      "pdfPage": 8,
+      "description": "Элементы кровельного модуля Como: коньки, торцевые детали и вентиляционные компоненты.",
+      "image": "/images/roof-tiles-house.webp",
+      "variants": [
+        "Модульный конёк",
+        "Торцевая плоская заглушка",
+        "Модульная накладка",
+        "Вентиляционная стартовая планка"
+      ],
+      "highlights": [
+        "Совместимые элементы кровельной системы"
+      ],
+      "filterTags": [
+        "кровля",
+        "комплектующие"
+      ],
+      "price": null,
+      "sku": null,
+      "availability": null
+    },
+    {
+      "slug": "gutter-system",
+      "title": "Водосточная система",
+      "group": "roof",
+      "pdfPage": 9,
+      "description": "Желоба, трубы, воронки, колена, соединители, крюки и заглушки для отвода дождевой воды.",
+      "image": "/images/roof-tiles-house.webp",
+      "variants": [
+        "Желоб",
+        "Водосточная труба",
+        "Соединитель желоба",
+        "Воронка",
+        "Углы 90°",
+        "Колена",
+        "Кронштейны",
+        "Заглушки"
+      ],
+      "highlights": [
+        "Подбор компонентов под проект"
+      ],
+      "filterTags": [
+        "кровля",
+        "водосток"
+      ],
+      "price": null,
+      "sku": null,
+      "availability": null
+    },
+    {
+      "slug": "roof-flashings",
+      "title": "Доборные элементы для кровли",
+      "group": "roof",
+      "pdfPage": 10,
+      "description": "Торцевые и карнизные планки, примыкания, ендовы и другие детали кровельных узлов.",
+      "image": "/images/roof-tiles-house.webp",
+      "variants": [
+        "Планка лобовая",
+        "Карнизная планка",
+        "Планка торцевая",
+        "Планка примыкания",
+        "Ендова",
+        "Конёк"
+      ],
+      "highlights": [
+        "Защита примыканий и кромок"
+      ],
+      "filterTags": [
+        "кровля",
+        "комплектующие"
+      ],
+      "price": null,
+      "sku": null,
+      "availability": null
+    },
+    {
+      "slug": "louver-fences",
+      "title": "Заборы жалюзи",
+      "group": "fence",
+      "pdfPage": 11,
+      "description": "Металлические системы жалюзийного ограждения для частных домов и территорий.",
+      "image": "/images/fence-eco-house.webp",
+      "variants": [
+        "ЭКО",
+        "ТВИН"
+      ],
+      "highlights": [
+        "Два принципа расположения ламелей"
+      ],
+      "filterTags": [
+        "ограждения",
+        "дом"
+      ],
+      "price": null,
+      "sku": null,
+      "availability": null
+    },
+    {
+      "slug": "fence-eco",
+      "title": "Забор жалюзи ЭКО",
+      "group": "fence",
+      "pdfPage": 12,
+      "description": "Классическая модель металлического забора жалюзи с односторонним расположением ламелей.",
+      "image": "/images/fence-eco-house.webp",
+      "variants": [
+        "Графит",
+        "Другие цвета по запросу"
+      ],
+      "highlights": [
+        "Рекомендуемая ширина пролёта до 2,8 м (по каталогу)",
+        "Масса одного метра ламели 0,45 кг (по каталогу)"
+      ],
+      "filterTags": [
+        "ограждения",
+        "дом"
+      ],
+      "price": null,
+      "sku": null,
+      "availability": null
+    },
+    {
+      "slug": "fence-planken",
+      "title": "Забор Планкен",
+      "group": "fence",
+      "pdfPage": 13,
+      "description": "Дизайн забора, имитирующий деревянную доску; возможны варианты ширины ламелей.",
+      "image": "/images/fence-planken-house.webp",
+      "variants": [
+        "Ламель 180 мм",
+        "Ламель 120 мм"
+      ],
+      "highlights": [
+        "Рекомендуемая ширина пролёта до 3,5 м (по каталогу)"
+      ],
+      "filterTags": [
+        "ограждения",
+        "дом"
+      ],
+      "price": null,
+      "sku": null,
+      "availability": null
+    },
+    {
+      "slug": "fence-twin",
+      "title": "Забор жалюзи ТВИН",
+      "group": "fence",
+      "pdfPage": 14,
+      "description": "Двухсторонняя конструкция забора с расположением ламелей с обеих сторон.",
+      "image": "/images/fence-twin-house.webp",
+      "variants": [
+        "Графит",
+        "Другие цвета по запросу"
+      ],
+      "highlights": [
+        "Рекомендуемая ширина пролёта до 3,5 м (по каталогу)"
+      ],
+      "filterTags": [
+        "ограждения",
+        "дом"
+      ],
+      "price": null,
+      "sku": null,
+      "availability": null
+    },
+    {
+      "slug": "steel-picket",
+      "title": "Стальной штакетник",
+      "group": "fence",
+      "pdfPage": 15,
+      "description": "Штакетник для строительства металлических ограждений с различной геометрией профиля.",
+      "image": "/images/fence-euro-picket.webp",
+      "variants": [
+        "М-100",
+        "М-111",
+        "Э-118",
+        "Ellipse",
+        "Trapeze",
+        "Lane"
+      ],
+      "highlights": [
+        "Разные профили, варианты цвета и монтажа"
+      ],
+      "filterTags": [
+        "ограждения",
+        "дом"
+      ],
+      "price": null,
+      "sku": null,
+      "availability": null
+    },
+    {
+      "slug": "gates-doorhan",
+      "title": "Ворота DoorHan",
+      "group": "gates",
+      "pdfPage": 16,
+      "description": "Ворота и сопутствующие решения: секционные, откатные, роллетные, перегрузочные системы, автоматика и контроль доступа.",
+      "image": "/images/industrial-sectional-doors.webp",
+      "variants": [
+        "Секционные",
+        "Откатные",
+        "Роллетные",
+        "Перегрузочные",
+        "Автоматика"
+      ],
+      "highlights": [
+        "Бренд DoorHan указан в каталоге"
+      ],
+      "filterTags": [
+        "ворота",
+        "коммерческий"
+      ],
+      "price": null,
+      "sku": null,
+      "availability": null
+    },
+    {
+      "slug": "garage-sectional-doors",
+      "title": "Гаражные ворота",
+      "group": "gates",
+      "pdfPage": 17,
+      "description": "Секционные ворота для гаражей, бытовых и технических помещений.",
+      "image": "/images/garage-door-house.webp",
+      "variants": [
+        "Различные типы панелей и цветов"
+      ],
+      "highlights": [
+        "Максимальная ширина проёма 3000 мм (по каталогу)",
+        "Максимальная высота 2750 мм (по каталогу)"
+      ],
+      "filterTags": [
+        "ворота",
+        "дом"
+      ],
+      "price": null,
+      "sku": null,
+      "availability": null
+    },
+    {
+      "slug": "industrial-sectional-doors",
+      "title": "Промышленные ворота",
+      "group": "gates",
+      "pdfPage": 18,
+      "description": "Промышленные секционные ворота для производственных зданий, складов, цехов и терминалов.",
+      "image": "/images/industrial-sectional-doors.webp",
+      "variants": [
+        "ISD01",
+        "ISD01-PARKING",
+        "ISD02",
+        "ISD02ALU",
+        "ISD THERMALPRO"
+      ],
+      "highlights": [
+        "Секционные решения для интенсивной эксплуатации"
+      ],
+      "filterTags": [
+        "ворота",
+        "коммерческий"
+      ],
+      "price": null,
+      "sku": null,
+      "availability": null
+    },
+    {
+      "slug": "fencing-systems",
+      "title": "Системы ограждений",
+      "group": "gates",
+      "pdfPage": 19,
+      "description": "Металлические ограждения и откатные/распашные ворота для жилых и коммерческих объектов.",
+      "image": "/images/fencing-system-house.webp",
+      "variants": [
+        "REVOLUTION-SLD",
+        "SWG-A",
+        "PSD-P"
+      ],
+      "highlights": [
+        "Совместимые элементы ограждений"
+      ],
+      "filterTags": [
+        "ограждения",
+        "ворота"
+      ],
+      "price": null,
+      "sku": null,
+      "availability": null
+    },
+    {
+      "slug": "ac-baskets",
+      "title": "Корзины под кондиционер",
+      "group": "elements",
+      "pdfPage": 20,
+      "description": "Декоративные металлические корзины для наружного блока кондиционера.",
+      "image": "/images/ac-basket.webp",
+      "variants": [
+        "Варианты перфорации"
+      ],
+      "highlights": [
+        "Прочный металлический корпус",
+        "Скрывает наружный блок"
+      ],
+      "filterTags": [
+        "аксессуары",
+        "фасад"
+      ],
+      "price": null,
+      "sku": null,
+      "availability": null
+    },
+    {
+      "slug": "mailboxes",
+      "title": "Почтовые ящики",
+      "group": "elements",
+      "pdfPage": 21,
+      "description": "Многосекционные почтовые ящики для жилых комплексов и частных домов.",
+      "image": "/images/mailbox-multi-section.webp",
+      "variants": [
+        "Пять секций",
+        "Нумерация 001–005",
+        "Декоративное покрытие под дерево"
+      ],
+      "highlights": [
+        "Индивидуальные замки",
+        "Металлический корпус"
+      ],
+      "filterTags": [
+        "аксессуары",
+        "дом"
+      ],
+      "price": null,
+      "sku": null,
+      "availability": null
+    }
+  ],
+  "contacts": {
+    "cities": [
+      {
+        "city": "Астана",
+        "address": "г. Астана, Туран 55/13",
+        "phones": [
+          "+7 707 505 02 60",
+          "+7 771 665 55 77"
+        ]
+      },
+      {
+        "city": "Алматы",
+        "address": "г. Алматы, Рыскулова 120б",
+        "phones": [
+          "+7 777 200 36 66",
+          "+7 778 450 45 31"
+        ]
+      }
+    ],
+    "email": "steelprofiles@bk.ru",
+    "instagram": "steelprofiles.kz",
+    "sourcePage": 23,
+    "verificationNote": "Сверить адреса, номера и аккаунт с заказчиком перед публикацией; взято с PDF-страницы 23."
+  },
+  "factuality": "Все утверждения взяты из визуально прочитанного PDF-каталога; цифры из каталога не являются обязательством или сертификатом. При расхождении с оригинальным PDF приоритет имеет оригинал. Отсутствующие цены, SKU, размеры, наличие не добавлять."
+}
