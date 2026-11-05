@@ -1,0 +1,1324 @@
+[
+  {
+    "company": "Kapitalbank (Uzpromstroybank)",
+    "domain": "kapitalbank.uz",
+    "mx": [
+      {
+        "mx_host": "mail.kapitalbank.uz",
+        "ip": "87.237.235.235",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "East Telecom"
+      }
+    ]
+  },
+  {
+    "company": "Asakabank",
+    "domain": "asakabank.uz",
+    "mx": [
+      {
+        "mx_host": "mx1.asakabank.uz",
+        "ip": "217.30.160.210",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "East Telecom"
+      }
+    ]
+  },
+  {
+    "company": "Hamkorbank",
+    "domain": "hamkorbank.uz",
+    "mx": [
+      {
+        "mx_host": "mymail.hamkorbank.uz",
+        "ip": "89.236.213.102",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "LLC \"TEXNOPROSISTEM\""
+      }
+    ]
+  },
+  {
+    "company": "Ipoteka Bank",
+    "domain": "ipotekabank.uz",
+    "mx": [
+      {
+        "mx_host": "mailgw1.ipotekabank.uz",
+        "ip": "87.237.234.41",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "East Telecom"
+      },
+      {
+        "mx_host": "mailgw2.ipotekabank.uz",
+        "ip": "87.237.236.123",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "East Telecom"
+      },
+      {
+        "mx_host": "mailgw3.ipotekabank.uz",
+        "ip": "87.237.236.123",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "East Telecom"
+      }
+    ]
+  },
+  {
+    "company": "TBC Uzbekistan",
+    "domain": "tbcbank.uz",
+    "mx": [
+      {
+        "mx_host": "tbcbank-uz.mail.protection.outlook.com",
+        "ip": "52.101.103.162",
+        "country": "Italy",
+        "countryCode": "IT",
+        "org": "Microsoft Azure Cloud (italynorth)"
+      },
+      {
+        "mx_host": "tbcbank-uz.mail.protection.outlook.com",
+        "ip": "52.101.103.36",
+        "country": "Italy",
+        "countryCode": "IT",
+        "org": "Microsoft Azure Cloud (italynorth)"
+      },
+      {
+        "mx_host": "tbcbank-uz.mail.protection.outlook.com",
+        "ip": "52.101.91.21",
+        "country": "Spain",
+        "countryCode": "ES",
+        "org": "Microsoft Azure Cloud (spaincentral)"
+      },
+      {
+        "mx_host": "tbcbank-uz.mail.protection.outlook.com",
+        "ip": "52.101.91.159",
+        "country": "Spain",
+        "countryCode": "ES",
+        "org": "Microsoft Azure Cloud (spaincentral)"
+      }
+    ]
+  },
+  {
+    "company": "Payme",
+    "domain": "payme.uz",
+    "mx": [
+      {
+        "mx_host": "payme-uz.mail.protection.outlook.com",
+        "ip": "52.101.73.155",
+        "country": "Netherlands",
+        "countryCode": "NL",
+        "org": "Microsoft Azure Cloud (westeurope)"
+      },
+      {
+        "mx_host": "payme-uz.mail.protection.outlook.com",
+        "ip": "52.101.68.39",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "org": "Microsoft Azure Cloud (northeurope)"
+      },
+      {
+        "mx_host": "payme-uz.mail.protection.outlook.com",
+        "ip": "52.101.68.25",
+        "country": "Ireland",
+        "countryCode": "IE",
+        "org": "Microsoft Azure Cloud (northeurope)"
+      },
+      {
+        "mx_host": "payme-uz.mail.protection.outlook.com",
+        "ip": "52.101.181.153",
+        "country": "Poland",
+        "countryCode": "PL",
+        "org": "Microsoft Azure Cloud (polandcentral)"
+      }
+    ]
+  },
+  {
+    "company": "Click",
+    "domain": "click.uz",
+    "mx": [
+      {
+        "mx_host": "aspmx.l.google.com",
+        "ip": "142.251.127.26",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      },
+      {
+        "mx_host": "aspmx2.googlemail.com",
+        "ip": "142.250.147.26",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      }
+    ]
+  },
+  {
+    "company": "Uzum Bank",
+    "domain": "uzum.uz",
+    "mx": [
+      {
+        "mx_host": "emx.mail.ru",
+        "ip": "217.69.139.180",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "VK Services"
+      },
+      {
+        "mx_host": "emx.mail.ru",
+        "ip": "94.100.180.180",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "VK Services"
+      }
+    ]
+  },
+  {
+    "company": "SQB (Sanoat Qurilish Bank)",
+    "domain": "sqb.uz",
+    "mx": [
+      {
+        "mx_host": "mail.sqb.uz",
+        "ip": "213.206.33.210",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "BUZTON"
+      }
+    ]
+  },
+  {
+    "company": "Xalq Banki",
+    "domain": "xalqbanki.uz",
+    "mx": []
+  },
+  {
+    "company": "Turonbank",
+    "domain": "turonbank.uz",
+    "mx": [
+      {
+        "mx_host": "mail.turonbank.uz",
+        "ip": "217.12.84.130",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "ISP Amaliy Aloqalar Biznesi Ltd."
+      }
+    ]
+  },
+  {
+    "company": "Aloqabank",
+    "domain": "aloqabank.uz",
+    "mx": [
+      {
+        "mx_host": "mail.aloqabank.uz",
+        "ip": "195.158.1.133",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "Uztelecom"
+      }
+    ]
+  },
+  {
+    "company": "Agrobank",
+    "domain": "agrobank.uz",
+    "mx": [
+      {
+        "mx_host": "mail.agrobank.uz",
+        "ip": "91.188.129.10",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "ARS-INFORM"
+      }
+    ]
+  },
+  {
+    "company": "Invest Finance Bank",
+    "domain": "ifb.uz",
+    "mx": []
+  },
+  {
+    "company": "Ravnaq Bank",
+    "domain": "ravnaq-bank.uz",
+    "mx": []
+  },
+  {
+    "company": "Mikrokreditbank",
+    "domain": "mikrokreditbank.uz",
+    "mx": [
+      {
+        "mx_host": "mail2.mikrokreditbank.uz",
+        "ip": "213.230.125.142",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "Uztelecom"
+      }
+    ]
+  },
+  {
+    "company": "Savdogar Bank",
+    "domain": "savdogarbank.uz",
+    "mx": [
+      {
+        "mx_host": "mail.savdogarbank.uz",
+        "ip": "80.80.218.195",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "LLC \"TEXNOPROSISTEM\""
+      },
+      {
+        "mx_host": "mail.savdogarbank.uz",
+        "ip": "80.80.218.195",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "LLC \"TEXNOPROSISTEM\""
+      }
+    ]
+  },
+  {
+    "company": "Yelo Bank",
+    "domain": "yelo.uz",
+    "mx": []
+  },
+  {
+    "company": "Octobank",
+    "domain": "octobank.uz",
+    "mx": [
+      {
+        "mx_host": "mail.octobank.uz",
+        "ip": "217.12.84.218",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "ISP Amaliy Aloqalar Biznesi Ltd."
+      }
+    ]
+  },
+  {
+    "company": "Uztelecom",
+    "domain": "uztelecom.uz",
+    "mx": [
+      {
+        "mx_host": "gw.uztelecom.uz",
+        "ip": "185.74.4.130",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "Uztelecom DC"
+      }
+    ]
+  },
+  {
+    "company": "Beeline Uzbekistan (Unitel)",
+    "domain": "beeline.uz",
+    "mx": [
+      {
+        "mx_host": "mailrelay2.beeline.uz",
+        "ip": "37.110.212.5",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "UZB-BEELINE"
+      },
+      {
+        "mx_host": "mailrelay1.beeline.uz",
+        "ip": "37.110.208.5",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "Unitel LLC"
+      }
+    ]
+  },
+  {
+    "company": "Ucell (Coscom)",
+    "domain": "ucell.uz",
+    "mx": [
+      {
+        "mx_host": "smtp1.ucell.uz",
+        "ip": "188.113.226.13",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "Ucell"
+      },
+      {
+        "mx_host": "smtp1.ucell.uz",
+        "ip": "188.113.226.12",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "Ucell"
+      },
+      {
+        "mx_host": "smtp2.ucell.uz",
+        "ip": "188.113.226.9",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "Ucell"
+      },
+      {
+        "mx_host": "smtp2.ucell.uz",
+        "ip": "188.113.226.8",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "Ucell"
+      }
+    ]
+  },
+  {
+    "company": "Mobiuz (UMS)",
+    "domain": "mobiuz.uz",
+    "mx": [
+      {
+        "mx_host": "mx1.beget.com",
+        "ip": "185.78.30.95",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Beget Ltd"
+      },
+      {
+        "mx_host": "mx1.beget.com",
+        "ip": "185.78.30.126",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Beget Ltd"
+      },
+      {
+        "mx_host": "mx1.beget.com",
+        "ip": "5.101.158.67",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Beget Ltd"
+      },
+      {
+        "mx_host": "mx1.beget.com",
+        "ip": "5.101.158.68",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Beget Ltd"
+      },
+      {
+        "mx_host": "mx2.beget.com",
+        "ip": "185.78.30.48",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Beget Ltd"
+      },
+      {
+        "mx_host": "mx2.beget.com",
+        "ip": "185.78.30.71",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Beget Ltd"
+      },
+      {
+        "mx_host": "mx2.beget.com",
+        "ip": "185.78.30.126",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Beget Ltd"
+      },
+      {
+        "mx_host": "mx2.beget.com",
+        "ip": "185.78.30.95",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Beget Ltd"
+      }
+    ]
+  },
+  {
+    "company": "Humans",
+    "domain": "humans.uz",
+    "mx": [
+      {
+        "mx_host": "alt1.aspmx.l.google.com",
+        "ip": "142.250.147.26",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      },
+      {
+        "mx_host": "alt4.aspmx.l.google.com",
+        "ip": "192.178.158.27",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      },
+      {
+        "mx_host": "alt3.aspmx.l.google.com",
+        "ip": "192.179.20.27",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      },
+      {
+        "mx_host": "alt2.aspmx.l.google.com",
+        "ip": "172.253.152.26",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      },
+      {
+        "mx_host": "aspmx.l.google.com",
+        "ip": "142.251.127.26",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      }
+    ]
+  },
+  {
+    "company": "Uzbekneftegaz",
+    "domain": "ung.uz",
+    "mx": [
+      {
+        "mx_host": "mail.ung.uz",
+        "ip": "195.158.2.62",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "National Data Network Company"
+      }
+    ]
+  },
+  {
+    "company": "Lukoil Uzbekistan",
+    "domain": "lukoil.uz",
+    "mx": []
+  },
+  {
+    "company": "Sanoat Energetika Guruhi",
+    "domain": "seg.uz",
+    "mx": [
+      {
+        "mx_host": "seg.uz",
+        "ip": "185.196.212.52",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "\"SUVAN NET\" LLC"
+      }
+    ]
+  },
+  {
+    "company": "Almalyk Mining (AGMK)",
+    "domain": "agmk.uz",
+    "mx": [
+      {
+        "mx_host": "mail.agmk.uz",
+        "ip": "213.230.125.92",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "Uztelecom"
+      }
+    ]
+  },
+  {
+    "company": "Navoi Mining (NGMK)",
+    "domain": "ngmk.uz",
+    "mx": [
+      {
+        "mx_host": "mail.ngmk.uz",
+        "ip": "195.158.27.156",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "National Data Network Company"
+      }
+    ]
+  },
+  {
+    "company": "Uzbekcoal",
+    "domain": "uzbekcoal.uz",
+    "mx": [
+      {
+        "mx_host": "mail.uzbekcoal.uz",
+        "ip": "91.212.89.68",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "UZINFOCOM State Unitary Enterprise"
+      }
+    ]
+  },
+  {
+    "company": "Uzbekhydroenergo",
+    "domain": "uhe.uz",
+    "mx": []
+  },
+  {
+    "company": "Thermal Power Plants (TTP)",
+    "domain": "tpp.uz",
+    "mx": [
+      {
+        "mx_host": "mail.tpp.uz",
+        "ip": "82.215.77.34",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "Static customer PPPoE"
+      }
+    ]
+  },
+  {
+    "company": "Uzbekistan Airways",
+    "domain": "uzairways.com",
+    "mx": [
+      {
+        "mx_host": "mx.uzairways.com",
+        "ip": "84.54.82.149",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "Uztelecom"
+      },
+      {
+        "mx_host": "mx1.uzairways.com",
+        "ip": "84.54.82.148",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "Uztelecom"
+      }
+    ]
+  },
+  {
+    "company": "Qanot Sharq",
+    "domain": "qanotsharq.uz",
+    "mx": []
+  },
+  {
+    "company": "Centrum Air",
+    "domain": "centrumair.uz",
+    "mx": []
+  },
+  {
+    "company": "Silk Avia",
+    "domain": "silkavia.uz",
+    "mx": [
+      {
+        "mx_host": "mx1.hosting.reg.ru",
+        "ip": "31.31.194.241",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Reg.Ru"
+      },
+      {
+        "mx_host": "mx1.hosting.reg.ru",
+        "ip": "31.31.194.240",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Reg.Ru"
+      },
+      {
+        "mx_host": "mx2.hosting.reg.ru",
+        "ip": "31.31.194.240",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Reg.Ru"
+      },
+      {
+        "mx_host": "mx2.hosting.reg.ru",
+        "ip": "31.31.194.241",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Reg.Ru"
+      }
+    ]
+  },
+  {
+    "company": "UzAvto",
+    "domain": "uzavto.uz",
+    "mx": [
+      {
+        "mx_host": "uzavto.uz",
+        "ip": "95.46.96.77",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "Arsenal D Ltd"
+      }
+    ]
+  },
+  {
+    "company": "UzBuild",
+    "domain": "uzbuild.uz",
+    "mx": [
+      {
+        "mx_host": "mail.uzupack.uz",
+        "ip": "146.120.17.185",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "Nano Telecom LLC"
+      }
+    ]
+  },
+  {
+    "company": "Uzagrotech",
+    "domain": "uzagrotech.uz",
+    "mx": []
+  },
+  {
+    "company": "UzChasys",
+    "domain": "uzchasys.uz",
+    "mx": [
+      {
+        "mx_host": "mail.uzchasys.uz",
+        "ip": "217.30.160.138",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "East Telecom"
+      }
+    ]
+  },
+  {
+    "company": "Uzeltexsanoat",
+    "domain": "uzeltexsanoat.uz",
+    "mx": []
+  },
+  {
+    "company": "Sanoat Invest",
+    "domain": "sanoinvest.uz",
+    "mx": []
+  },
+  {
+    "company": "Uzmetkombinat",
+    "domain": "uzmk.uz",
+    "mx": []
+  },
+  {
+    "company": "Uzbekistan Railways (UTY)",
+    "domain": "railway.uz",
+    "mx": [
+      {
+        "mx_host": "ns.railway.uz",
+        "ip": "91.212.89.50",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "UZINFOCOM State Unitary Enterprise"
+      },
+      {
+        "mx_host": "mx2.cm.uz",
+        "ip": "91.212.89.36",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "UZINFOCOM State Unitary Enterprise"
+      },
+      {
+        "mx_host": "mx1.cm.uz",
+        "ip": "91.212.89.35",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "UZINFOCOM State Unitary Enterprise"
+      },
+      {
+        "mx_host": "mail.railway.uz",
+        "ip": "213.230.125.178",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "Uztelecom"
+      },
+      {
+        "mx_host": "mail.railway.uz",
+        "ip": "213.230.125.178",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "Uztelecom"
+      }
+    ]
+  },
+  {
+    "company": "Uzbekistan Post",
+    "domain": "pochta.uz",
+    "mx": [
+      {
+        "mx_host": "mail.pochta.uz",
+        "ip": "84.54.74.198",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "Uztelecom"
+      }
+    ]
+  },
+  {
+    "company": "Korzinka",
+    "domain": "korzinka.uz",
+    "mx": [
+      {
+        "mx_host": "mailstream-west.mxrecord.io",
+        "ip": "172.65.220.210",
+        "country": "Canada",
+        "countryCode": "CA",
+        "org": "Cloudflare, Inc."
+      },
+      {
+        "mx_host": "mailstream-eu1.mxrecord.io",
+        "ip": "172.65.245.214",
+        "country": "Canada",
+        "countryCode": "CA",
+        "org": "Cloudflare, Inc."
+      },
+      {
+        "mx_host": "mailstream-central.mxrecord.mx",
+        "ip": "172.65.64.78",
+        "country": "Canada",
+        "countryCode": "CA",
+        "org": "Cloudflare, Inc."
+      },
+      {
+        "mx_host": "mailstream-east.mxrecord.io",
+        "ip": "172.65.213.128",
+        "country": "Canada",
+        "countryCode": "CA",
+        "org": "Cloudflare, Inc."
+      }
+    ]
+  },
+  {
+    "company": "Makro (Hamkorbank)",
+    "domain": "makro.uz",
+    "mx": []
+  },
+  {
+    "company": "UzBAT",
+    "domain": "uzbat.com",
+    "mx": []
+  },
+  {
+    "company": "Coca-Cola Ichimligi UZ",
+    "domain": "coca-cola.uz",
+    "mx": [
+      {
+        "mx_host": "mail.coca-cola.uz",
+        "ip": "37.77.5.17",
+        "country": "Turkey",
+        "countryCode": "TR",
+        "org": "Vaultr"
+      }
+    ]
+  },
+  {
+    "company": "Artel",
+    "domain": "artel.uz",
+    "mx": []
+  },
+  {
+    "company": "Texnopark",
+    "domain": "texnopark.uz",
+    "mx": [
+      {
+        "mx_host": "mail.texnopark.uz",
+        "ip": "45.9.229.33",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "ISP \"CITYNET\": first network"
+      }
+    ]
+  },
+  {
+    "company": "Shohruh Savdo (Fix Price UZ)",
+    "domain": "fixprice.uz",
+    "mx": []
+  },
+  {
+    "company": "IT Park Uzbekistan",
+    "domain": "it-park.uz",
+    "mx": [
+      {
+        "mx_host": "mail.it-park.uz",
+        "ip": "195.158.7.9",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "Uztelecom"
+      }
+    ]
+  },
+  {
+    "company": "OLX Uzbekistan",
+    "domain": "olx.uz",
+    "mx": [
+      {
+        "mx_host": "aspmx.l.google.com",
+        "ip": "142.251.127.26",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      },
+      {
+        "mx_host": "alt2.aspmx.l.google.com",
+        "ip": "172.253.152.27",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      },
+      {
+        "mx_host": "alt1.aspmx.l.google.com",
+        "ip": "142.250.147.26",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      },
+      {
+        "mx_host": "alt4.aspmx.l.google.com",
+        "ip": "192.178.158.26",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      },
+      {
+        "mx_host": "alt3.aspmx.l.google.com",
+        "ip": "192.179.20.27",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      }
+    ]
+  },
+  {
+    "company": "Telecom market / Uzinfocom",
+    "domain": "uzinfocom.uz",
+    "mx": [
+      {
+        "mx_host": "mail.uzinfocom.uz",
+        "ip": "91.212.89.59",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "UZINFOCOM State Unitary Enterprise"
+      }
+    ]
+  },
+  {
+    "company": "UZINFOCOM",
+    "domain": "uic.uz",
+    "mx": []
+  },
+  {
+    "company": "Toshkent RSE (RSE)",
+    "domain": "rse.uz",
+    "mx": []
+  },
+  {
+    "company": "UzEx (Commodity Exchange)",
+    "domain": "uzex.uz",
+    "mx": [
+      {
+        "mx_host": "mail.uzex.uz",
+        "ip": "89.236.218.116",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "LLC \"TEXNOPROSISTEM\""
+      }
+    ]
+  },
+  {
+    "company": "Central Securities Depository",
+    "domain": "csd.uz",
+    "mx": []
+  },
+  {
+    "company": "MTRK (Toshkent TV)",
+    "domain": "mtrk.uz",
+    "mx": [
+      {
+        "mx_host": "mail.mtrk.uz",
+        "ip": "195.158.8.202",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "Uztelecom"
+      }
+    ]
+  },
+  {
+    "company": "Uzreport",
+    "domain": "uzreport.uz",
+    "mx": [
+      {
+        "mx_host": "mx.yandex.net",
+        "ip": "77.88.21.249",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Yandex LLC"
+      }
+    ]
+  },
+  {
+    "company": "Daryo.uz",
+    "domain": "daryo.uz",
+    "mx": [
+      {
+        "mx_host": "emx.mail.ru",
+        "ip": "94.100.180.180",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "VK Services"
+      },
+      {
+        "mx_host": "emx.mail.ru",
+        "ip": "217.69.139.180",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "VK Services"
+      },
+      {
+        "mx_host": "_dc-mx.7384cb0032da.daryo.uz",
+        "ip": "93.188.84.233",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "\"Uzbektelekom\" Joint Stock Company"
+      }
+    ]
+  },
+  {
+    "company": "Gazeta.uz",
+    "domain": "gazeta.uz",
+    "mx": [
+      {
+        "mx_host": "smtp.google.com",
+        "ip": "142.251.127.27",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      },
+      {
+        "mx_host": "smtp.google.com",
+        "ip": "142.251.127.26",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      }
+    ]
+  },
+  {
+    "company": "Kun.uz",
+    "domain": "kun.uz",
+    "mx": [
+      {
+        "mx_host": "smtp.google.com",
+        "ip": "142.251.127.26",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      },
+      {
+        "mx_host": "smtp.google.com",
+        "ip": "142.251.127.27",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      }
+    ]
+  },
+  {
+    "company": "Zamin.uz",
+    "domain": "zamin.uz",
+    "mx": [
+      {
+        "mx_host": "mx.yandex.net",
+        "ip": "77.88.21.249",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Yandex LLC"
+      }
+    ]
+  },
+  {
+    "company": "My5 TV",
+    "domain": "my5.uz",
+    "mx": [
+      {
+        "mx_host": "my5.uz",
+        "ip": "37.140.216.216",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "New Line Solutions LLC"
+      }
+    ]
+  },
+  {
+    "company": "Toshkent city gov",
+    "domain": "tashkent.uz",
+    "mx": [
+      {
+        "mx_host": "mail.tashkent.uz",
+        "ip": "80.80.215.178",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "LLC \"TEXNOPROSISTEM\""
+      }
+    ]
+  },
+  {
+    "company": "Government portal",
+    "domain": "gov.uz",
+    "mx": [
+      {
+        "mx_host": "mail2.gov.uz",
+        "ip": "195.158.26.70",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "Uztelecom"
+      }
+    ]
+  },
+  {
+    "company": "Dori-Darmon",
+    "domain": "doridarmon.uz",
+    "mx": []
+  },
+  {
+    "company": "Bio-chem farm",
+    "domain": "biokim.uz",
+    "mx": []
+  },
+  {
+    "company": "Kafolat Insurance",
+    "domain": "kafolat.uz",
+    "mx": [
+      {
+        "mx_host": "mail.kafolat.uz",
+        "ip": "37.153.159.13",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "\"SUVAN NET\" LLC"
+      }
+    ]
+  },
+  {
+    "company": "Gross Insurance",
+    "domain": "gross.uz",
+    "mx": [
+      {
+        "mx_host": "alt1.aspmx.l.google.com",
+        "ip": "142.250.147.26",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      },
+      {
+        "mx_host": "aspmx.l.google.com",
+        "ip": "142.251.127.26",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      },
+      {
+        "mx_host": "alt4.aspmx.l.google.com",
+        "ip": "192.178.158.26",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      },
+      {
+        "mx_host": "alt2.aspmx.l.google.com",
+        "ip": "172.253.152.27",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      },
+      {
+        "mx_host": "alt3.aspmx.l.google.com",
+        "ip": "192.179.20.27",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Google LLC"
+      }
+    ]
+  },
+  {
+    "company": "Apex Insurance",
+    "domain": "apex.uz",
+    "mx": [
+      {
+        "mx_host": "mx2.beget.com",
+        "ip": "185.78.30.48",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Beget Ltd"
+      },
+      {
+        "mx_host": "mx2.beget.com",
+        "ip": "185.78.30.71",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Beget Ltd"
+      },
+      {
+        "mx_host": "mx2.beget.com",
+        "ip": "185.78.30.126",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Beget Ltd"
+      },
+      {
+        "mx_host": "mx2.beget.com",
+        "ip": "185.78.30.95",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Beget Ltd"
+      },
+      {
+        "mx_host": "mx1.beget.com",
+        "ip": "5.101.158.67",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Beget Ltd"
+      },
+      {
+        "mx_host": "mx1.beget.com",
+        "ip": "185.78.30.126",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Beget Ltd"
+      },
+      {
+        "mx_host": "mx1.beget.com",
+        "ip": "5.101.158.68",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Beget Ltd"
+      },
+      {
+        "mx_host": "mx1.beget.com",
+        "ip": "185.78.30.95",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Beget Ltd"
+      }
+    ]
+  },
+  {
+    "company": "Qizilqumsement",
+    "domain": "qizilqumsement.uz",
+    "mx": [
+      {
+        "mx_host": "mail.qizilqumsement.uz",
+        "ip": "217.30.171.227",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "\"IST TELEKOM\" JV LLC"
+      }
+    ]
+  },
+  {
+    "company": "Akhangarancement",
+    "domain": "akhangarancement.uz",
+    "mx": []
+  },
+  {
+    "company": "O'zbekiston paxtasi",
+    "domain": "uzcotton.uz",
+    "mx": [
+      {
+        "mx_host": "mx1.beget.com",
+        "ip": "185.78.30.95",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Beget Ltd"
+      },
+      {
+        "mx_host": "mx1.beget.com",
+        "ip": "5.101.158.68",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Beget Ltd"
+      },
+      {
+        "mx_host": "mx1.beget.com",
+        "ip": "185.78.30.126",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Beget Ltd"
+      },
+      {
+        "mx_host": "mx1.beget.com",
+        "ip": "5.101.158.67",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Beget Ltd"
+      },
+      {
+        "mx_host": "mx2.beget.com",
+        "ip": "185.78.30.95",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Beget Ltd"
+      },
+      {
+        "mx_host": "mx2.beget.com",
+        "ip": "185.78.30.126",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Beget Ltd"
+      },
+      {
+        "mx_host": "mx2.beget.com",
+        "ip": "185.78.30.71",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Beget Ltd"
+      },
+      {
+        "mx_host": "mx2.beget.com",
+        "ip": "185.78.30.48",
+        "country": "Russia",
+        "countryCode": "RU",
+        "org": "Beget Ltd"
+      }
+    ]
+  },
+  {
+    "company": "Uzbektourism",
+    "domain": "uzbektourism.uz",
+    "mx": [
+      {
+        "mx_host": "webmail.uzbektourism.uz",
+        "ip": "94.141.85.186",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "IST Telekom LLC"
+      }
+    ]
+  },
+  {
+    "company": "Turonforum",
+    "domain": "turonzamin.uz",
+    "mx": [
+      {
+        "mx_host": "turonzamin.uz",
+        "ip": "62.169.29.13",
+        "country": "France",
+        "countryCode": "FR",
+        "org": "Contabo GmbH"
+      }
+    ]
+  },
+  {
+    "company": "GM Uzbekistan (former)",
+    "domain": "gmuz.com",
+    "mx": [
+      {
+        "mx_host": "mail.mailerhost.net",
+        "ip": "5.161.133.13",
+        "country": "United States",
+        "countryCode": "US",
+        "org": "Hetzner Online GmbH"
+      },
+      {
+        "mx_host": "mail.mailerhost.net",
+        "ip": "161.35.84.83",
+        "country": "The Netherlands",
+        "countryCode": "NL",
+        "org": "DigitalOcean, LLC"
+      }
+    ]
+  },
+  {
+    "company": "Man Auto Uzbekistan",
+    "domain": "manauto.uz",
+    "mx": []
+  },
+  {
+    "company": "Toshkent Metro",
+    "domain": "metro.uz",
+    "mx": []
+  },
+  {
+    "company": "Toshkent airport",
+    "domain": "tashkent-airport.uz",
+    "mx": [
+      {
+        "mx_host": "tashkent-airport.uz",
+        "ip": "185.196.212.52",
+        "country": "Uzbekistan",
+        "countryCode": "UZ",
+        "org": "\"SUVAN NET\" LLC"
+      }
+    ]
+  }
+]
