@@ -143,3 +143,106 @@ body{font-size:18px;line-height:1.65}
 @media(max-width:640px){.mobile-nav{top:66px;padding:12px 19px 22px}}
 .mobile-nav .mobile-contact{justify-content:center;gap:12px;min-height:56px;margin-top:15px;padding:0 18px;background:#1269d0;border:1px solid #4e9bed;color:#fff;font-size:17px;font-weight:600}
 .mobile-nav .mobile-contact:hover{background:#237bdc}
+.contact-card address{color:#fff;font-weight:600}
+.contact-card .map-link{display:inline-flex;align-items:center;justify-content:center;gap:12px;min-height:54px;margin-top:20px;padding:0 18px;color:#fff;font-size:16px;line-height:1.3}
+.contact-card .map-link:hover{color:#fff}
+
+/* Keep every call-to-action label and icon on a single aligned row. */
+.button,.nav-cta,.text-link{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  flex-direction:row;
+  flex-wrap:nowrap;
+  white-space:nowrap;
+  vertical-align:middle;
+}
+.button>svg,.nav-cta>svg,.text-link>svg{
+  display:block;
+  flex:none;
+  align-self:center;
+}
+.contact-aside a.button,.contact-card a.button{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  flex-wrap:nowrap;
+  white-space:nowrap;
+}
+.mobile-nav a.mobile-contact{display:flex;align-items:center;justify-content:center;white-space:nowrap}
+@media(max-width:640px){
+  .contact-banner{padding-inline:15px}
+  .button{gap:10px;padding-inline:16px}
+}
+
+/* Partners: three equal sequences keep the loop filled at wide viewports. */
+.partners-section{
+  overflow:hidden;
+  border-top:1px solid var(--line);
+  border-bottom:1px solid var(--line);
+  background:linear-gradient(180deg,#0c1b29,#102438);
+}
+.partners-heading{
+  display:flex;
+  align-items:end;
+  justify-content:space-between;
+  gap:28px;
+  margin-bottom:38px;
+}
+.partners-heading .section-intro{margin:0 0 7px;max-width:390px}
+.partners-marquee{
+  --partners-fade:clamp(26px,5vw,72px);
+  overflow:hidden;
+  -webkit-mask-image:linear-gradient(to right,transparent,#000 var(--partners-fade),#000 calc(100% - var(--partners-fade)),transparent);
+  mask-image:linear-gradient(to right,transparent,#000 var(--partners-fade),#000 calc(100% - var(--partners-fade)),transparent);
+}
+.partners-track{
+  display:flex;
+  width:max-content;
+  animation:partners-scroll 36s linear infinite;
+  will-change:transform;
+}
+.partners-marquee:hover .partners-track,.partners-marquee:focus-within .partners-track{animation-play-state:paused}
+.partners-marquee:focus-visible{outline:2px solid #84bfff;outline-offset:3px}
+.partners-list{
+  display:flex;
+  flex:none;
+  gap:20px;
+  margin:0;
+  padding:0 20px 0 0;
+  list-style:none;
+}
+.partner-card{
+  box-sizing:border-box;
+  flex:none;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  width:260px;
+  height:124px;
+  padding:12px;
+  overflow:hidden;
+  border:1px solid rgba(255,255,255,.72);
+  border-radius:15px;
+  background:rgba(246,250,255,.97);
+  box-shadow:0 14px 32px rgba(0,0,0,.23),inset 0 1px rgba(255,255,255,.8);
+  backdrop-filter:blur(12px);
+}
+.partner-card img{display:block;width:100%;height:100%;object-fit:contain}
+@keyframes partners-scroll{to{transform:translate3d(-33.333333%,0,0)}}
+@media(max-width:900px){
+  .partners-heading{align-items:start;flex-direction:column;gap:11px;margin-bottom:30px}
+  .partners-list{gap:16px;padding-right:16px}
+  .partner-card{width:220px;height:116px}
+}
+@media(max-width:640px){
+  .partners-heading{margin-bottom:25px}
+  .partners-heading .section-intro{font-size:16px}
+  .partners-list{gap:14px;padding-right:14px}
+  .partner-card{width:180px;height:110px;padding:10px;border-radius:12px}
+}
+@media(prefers-reduced-motion:reduce){
+  .partners-marquee{overflow-x:auto;-webkit-mask-image:none;mask-image:none;scrollbar-width:thin}
+  .partners-track{animation:none!important;transform:none;will-change:auto}
+  .partners-list[aria-hidden="true"]{display:none}
+}

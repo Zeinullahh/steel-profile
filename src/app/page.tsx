@@ -3,6 +3,7 @@ import Link from "next/link";
 import { ArrowRight, ArrowUpRight, Mail, Phone } from "lucide-react";
 import { content } from "@/types/catalog";
 import { ProductCard } from "@/components/product-card";
+import { PartnersMarquee } from "@/components/partners-marquee";
 
 const featuredSlugs = ["fibercement-facade-panels", "linear-panels", "metal-roof-tile", "louver-fences", "garage-sectional-doors", "ac-baskets"];
 const featured = featuredSlugs.map(slug => content.products.find(product => product.slug === slug)).filter((product): product is (typeof content.products)[number] => Boolean(product));
@@ -17,6 +18,7 @@ export default function HomePage() {
     <section className="section project-selection"><div className="container"><div className="section-top"><div><span className="eyebrow">Из каталога</span><h2 className="section-title">Выбор для<br/>вашего проекта</h2></div><Link href="/catalog" className="text-link">Открыть каталог <ArrowRight size={15}/></Link></div><div className="product-grid">{featured.map((product, index) => <ProductCard key={product.slug} product={product} index={index}/>)}</div></div></section>
     <section className="split-feature"><div className="split-image"><Image src="/images/linear-house.webp" alt="Линейные панели в отделке фасада" fill sizes="(max-width:640px) 100vw, 50vw" loading="lazy"/></div><div className="split-copy"><span className="eyebrow">По задачам</span><h2>Решения для<br/>пространства</h2><p>Откройте подбор направлений по типу объекта и задаче.</p><ul className="feature-list">{tasks.map(task => <li key={task}>{task}</li>)}</ul><Link className="button button-primary split-cta" href="/solutions">Посмотреть решения <ArrowRight size={18}/></Link></div></section>
     <section className="section about-preview"><div className="container"><div className="section-top"><div><span className="eyebrow">О компании</span><h2 className="section-title">STEEL<br/>PROFILES</h2></div><div><p className="section-intro">В каталоге представлены фасадные и кровельные материалы, системы ограждений, ворота и металлические элементы для частных и коммерческих объектов.</p><Link href="/about" className="text-link">О компании <ArrowRight size={15}/></Link></div></div></div></section>
+    <PartnersMarquee />
     <section className="container" style={{paddingBottom:100}}><div className="contact-banner"><div><span className="eyebrow">Обсудить задачу</span><h2>Подберём направление<br/>для вашего проекта</h2><p>Свяжитесь с представительством в Астане или Алматы.</p></div><div className="button-row"><a className="button button-glass" href={`tel:${phone.replace(/[^+\d]/g, "")}`}>Позвонить <Phone size={15}/></a><a className="button button-glass" href={`mailto:${content.contacts.email}`}>Написать <Mail size={15}/></a><Link className="button button-primary" href="/contacts">Контакты <ArrowUpRight size={16}/></Link></div></div></section>
   </>;
 }

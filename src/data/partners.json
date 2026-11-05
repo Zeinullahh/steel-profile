@@ -1,0 +1,44 @@
+﻿[
+    {
+        "id":  "doorhan",
+        "name":  "DoorHan",
+        "logo":  "/partners/doorhan.png",
+        "alt":  "Логотип Торговая марка DoorHan"
+    },
+    {
+        "id":  "technonikol",
+        "name":  "ТЕХНОНИКОЛЬ",
+        "logo":  "/partners/technonikol.png",
+        "alt":  "Логотип Торговая марка ТЕХНОНИКОЛЬ"
+    },
+    {
+        "id":  "budmat-steel",
+        "name":  "Budmat Steel",
+        "logo":  "/partners/budmat-steel.png",
+        "alt":  "Логотип Торговая марка Budmat Steel"
+    },
+    {
+        "id":  "isover",
+        "name":  "ISOVER",
+        "logo":  "/partners/isover.png",
+        "alt":  "Логотип ISOVER — Saint-Gobain"
+    },
+    {
+        "id":  "makwool",
+        "name":  "MakWool",
+        "logo":  "/partners/makwool.png",
+        "alt":  "Логотип Торговая марка MakWool"
+    },
+    {
+        "id":  "metrotile",
+        "name":  "Metrotile",
+        "logo":  "/partners/metrotile.png",
+        "alt":  "Логотип Торговая марка Metrotile"
+    },
+    {
+        "id":  "profland",
+        "name":  "Profland",
+        "logo":  "/partners/profland.png",
+        "alt":  "Логотип Торговая марка Profland"
+    }
+]
